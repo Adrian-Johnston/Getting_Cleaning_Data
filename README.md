@@ -3,7 +3,7 @@
 ## ----SCRIPT WALKTRHOUGH
 ## ----CODEBOOK
 
-The run_analysis.R file  consolidates the test and train data into a 'tidy' data frame, complete with named columns and meaningful activity labels. Only measurement fields not relating to mean and standard deviation measures are excluded, and remaining measures are aggregated to show the mean value grouped by the experiment subject and activity.
+The run_analysis.R file  consolidates the test and train data into a 'tidy' data frame, complete with named columns and meaningful activity labels. Measurement fields not relating to mean and standard deviation measures are excluded, and remaining measures are aggregated to show the mean value grouped by the experiment subject and activity.
 
 This script must be located in the same directory as the "test" and "train" folders of the UCI HAR data (and in the same directory as features.txt).
 
@@ -60,7 +60,7 @@ ACTIVITY 18
 ACTIVITY_ID 1
 
     Activity Code
-        1    WALKING
+        1   WALKING
         2	WALKING_UPSTAIRS
         3	WALKING_DOWNSTAIRS
         4	SITTING
@@ -68,7 +68,7 @@ ACTIVITY_ID 1
         6	LAYING
 
 SUBJECT_ID 2
-    UNique Identifier of the subject (person participating in the experiment)
+    Unique Identifier of the subject (person participating in the experiment)
     
 tBodyAcc-std()-X    18
     Mean of  'tBodyAcc-std()-X' readings [units not specified in original data set]
