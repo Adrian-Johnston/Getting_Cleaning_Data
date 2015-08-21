@@ -1,7 +1,5 @@
-# Getting_Cleaning_Data
-#Coursera Course getdata-031
-
-# ----CONTENTS
+# Coursera Getting_Cleaning_Data Adrian Johnston 22 Aug 2015
+# CONTENTS
 # ----SCRIPT WALKTRHOUGH
 # ----CODEBOOK
 
@@ -43,8 +41,8 @@ THis vector contains:
 (Columns containing the strings "std()" or "mean()" are taken to indicate measures of 
 standard deviation and mean respectively).
 
-#5. From the data set in step 4, creates a second, independent tidy data set with the 
- average of each variable for each activity and each subject.
+#5. A second, independent tidy data set with the average of each variable for each # activity and each subject.
+
 Line 38
 Data is aggregated to show mean of values grouped by activity label/ID and subject ID
 
