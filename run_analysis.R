@@ -2,7 +2,7 @@
 #run_analysis.R
 #Coursera getdata-031
 #Prepared by Adrian Johnston 21-Aug-2015
-#Refer to README.md and codebook.txt for explanation of script and variables
+#Refer to README.md for codebook and explanation of script walkthrough
 
 df.X_test<-read.table("test/X_test.txt")
 df.X_train<-read.table("train/X_train.txt")
