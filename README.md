@@ -1,16 +1,16 @@
 # Coursera Getting_Cleaning_Data Adrian Johnston 22 Aug 2015
 # CONTENTS
-# ----SCRIPT WALKTRHOUGH
-# ----CODEBOOK
+## ----SCRIPT WALKTRHOUGH
+## ----CODEBOOK
 
 The run_analysis.R file  consolidates the test and train data into a 'tidy' data frame, complete with named columns and meaningful activity labels. Only measurement fields not relating to mean and standard deviation measures are excluded, and remaining measures are aggregated to show the mean value grouped by the experiment subject and activity.
 
 This script must be located in the same directory as the "test" and "train" folders of the UCI HAR data (and in the same directory as features.txt).
 
-##CODE WALK THROUGH 
+#CODE WALK THROUGH 
 (How does this script address the assignment requirements?)
 
-#1. Merges the training and the test sets to create one data set.
+##1. Merges the training and the test sets to create one data set.
 Lines 7-17
 Train and Test Data is imported to a data frame then "unioned" together using rbind resulting in 3 data frames of equal row count (df.X_combined, df.subject_combined, df.y_combined.
 
@@ -20,15 +20,15 @@ A vector of column names (v.col_Names) is constructed from 2 literal strings and
 Line 25
 The 3 intermediate data frames are combined using cbind into one data frame containing all test and train data. (df.all_data)
 
-#2.Extracts only the measurements on the mean and standard deviation for each measurement.
+##2.Extracts only the measurements on the mean and standard deviation for each measurement.
 Line 30
 A new data frame (df.required_data) is populated by taking only columns found in v.required_col_Names from data frame df.all_data
 
-#3. Uses descriptive activity names to name the activities in the data set
+##3. Uses descriptive activity names to name the activities in the data set
 Lines 33-34
-Meaingful activity labels are imported and applied using match
+Meaningful activity labels are imported and applied using match
 
-#4. Appropriately labels the data set with descriptive variable names. 
+##4. Appropriately labels the data set with descriptive variable names. 
 Line 26
 The column names from v.col_Names are applied to dataframe df.all_data
 
@@ -42,7 +42,7 @@ THis vector contains:
 (Columns containing the strings "std()" or "mean()" are taken to indicate measures of 
 standard deviation and mean respectively).
 
-#5. A second, independent tidy data set with the average of each variable for each # activity and each subject.
+##5. A second, independent tidy data set with the average of each variable for each # activity and each subject.
 
 Line 38
 Data is aggregated to show mean of values grouped by activity label/ID and subject ID
