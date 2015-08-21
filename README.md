@@ -7,7 +7,8 @@ The run_analysis.R file  consolidates the test and train data into a 'tidy' data
 
 This script must be located in the same directory as the "test" and "train" folders of the UCI HAR data (and in the same directory as features.txt).
 
-CODE WALK THROUGH (How does this script address the assignment requirements?)
+##CODE WALK THROUGH 
+(How does this script address the assignment requirements?)
 
 #1. Merges the training and the test sets to create one data set.
 Lines 7-17
