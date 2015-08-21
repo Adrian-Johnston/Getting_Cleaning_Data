@@ -71,94 +71,94 @@ SUBJECT_ID 2
     UNique Identifier of the subject (person participating in the experiment)
     
 tBodyAcc-std()-X    18
-	Mean of  'tBodyAcc-std()-X' readings [units not specified in original data set]
+    Mean of  'tBodyAcc-std()-X' readings [units not specified in original data set]
 
 tBodyAcc-std()-Y	18
-	Mean of  tBodyAcc-std()-Y readings [units not specified in original data set]
+    Mean of  tBodyAcc-std()-Y readings [units not specified in original data set]
     
 tBodyAcc-std()-Z	18
-	Mean of  'tBodyAcc-std()-Z' readings [units not specified in original data set]
-    
+    Mean of  'tBodyAcc-std()-Z' readings [units not specified in original data set]
+
 tGravityAcc-std()-X	18
-	Mean of  tGravityAcc-std()-X readings [units not specified in original data set]
-    
+    Mean of  tGravityAcc-std()-X readings [units not specified in original data set]
+
 tGravityAcc-std()-Y	18
-	Mean of  'tGravityAcc-std()-Y' readings [units not specified in original data set]
-    
+    Mean of  'tGravityAcc-std()-Y' readings [units not specified in original data set]
+
 tGravityAcc-std()-Z	18
-	Mean of  tGravityAcc-std()-Z readings [units not specified in original data set]
-    
+    Mean of  tGravityAcc-std()-Z readings [units not specified in original data set]
+
 tBodyAccJerk-std()-X	18
-	Mean of  'tBodyAccJerk-std()-X' readings [units not specified in original data set]
-    
+    Mean of  'tBodyAccJerk-std()-X' readings [units not specified in original data set]
+
 tBodyAccJerk-std()-Y	18
-	Mean of  tBodyAccJerk-std()-Y readings [units not specified in original data set]
-    
+    Mean of  tBodyAccJerk-std()-Y readings [units not specified in original data set]
+
 tBodyAccJerk-std()-Z	18
-	Mean of  'tBodyAccJerk-std()-Z' readings [units not specified in original data set]
-    
+    Mean of  'tBodyAccJerk-std()-Z' readings [units not specified in original data set]
+
 tBodyGyro-std()-X	18
-	Mean of  tBodyGyro-std()-X readings [units not specified in original data set]
+    Mean of  tBodyGyro-std()-X readings [units not specified in original data set]
     
 tBodyGyro-std()-Y	18
-	Mean of  'tBodyGyro-std()-Y' readings [units not specified in original data set]
-    
+    Mean of  'tBodyGyro-std()-Y' readings [units not specified in original data set]
+
 tBodyGyro-std()-Z	18
-	Mean of  tBodyGyro-std()-Z readings [units not specified in original data set]
-    
+    Mean of  tBodyGyro-std()-Z readings [units not specified in original data set]
+
 tBodyGyroJerk-std()-X	18
-	Mean of  'tBodyGyroJerk-std()-X' readings [units not specified in original data set]
-    
+    Mean of  'tBodyGyroJerk-std()-X' readings [units not specified in original data set]
+
 tBodyGyroJerk-std()-Y	18
-	Mean of  tBodyGyroJerk-std()-Y readings [units not specified in original data set]
-    
+    Mean of  tBodyGyroJerk-std()-Y readings [units not specified in original data set]
+
 tBodyGyroJerk-std()-Z	18
-	Mean of  'tBodyGyroJerk-std()-Z' readings [units not specified in original data set]
+    Mean of  'tBodyGyroJerk-std()-Z' readings [units not specified in original data set]
     
 tBodyAccMag-std()	18
-	Mean of  tBodyAccMag-std() readings [units not specified in original data set]
+    Mean of  tBodyAccMag-std() readings [units not specified in original data set]
     
 tGravityAccMag-std()	18
-	Mean of  'tGravityAccMag-std()' readings [units not specified in original data set]
-    
+Mean of  'tGravityAccMag-std()' readings [units not specified in original data set]
+
 tBodyAccJerkMag-std()	18
-	Mean of  tBodyAccJerkMag-std() readings [units not specified in original data set]
+    Mean of  tBodyAccJerkMag-std() readings [units not specified in original data set]
     
 tBodyGyroMag-std()	18
-	Mean of  'tBodyGyroMag-std()' readings [units not specified in original data set]
+    Mean of  'tBodyGyroMag-std()' readings [units not specified in original data set]
     
 tBodyGyroJerkMag-std()	18
-	Mean of  tBodyGyroJerkMag-std() readings [units not specified in original data set]
+    Mean of  tBodyGyroJerkMag-std() readings [units not specified in original data set]
     
 fBodyAcc-std()-X	18
-	Mean of  'fBodyAcc-std()-X' readings [units not specified in original data set]
+    Mean of  'fBodyAcc-std()-X' readings [units not specified in original data set]
     
 fBodyAcc-std()-Y	18
-	Mean of  fBodyAcc-std()-Y readings [units not specified in original data set]
+    Mean of  fBodyAcc-std()-Y readings [units not specified in original data set]
     
 fBodyAcc-std()-Z	18
-	Mean of  'fBodyAcc-std()-Z' readings [units not specified in original data set]
+    Mean of  'fBodyAcc-std()-Z' readings [units not specified in original data set]
     
 fBodyAccJerk-std()-X	18
-	Mean of  fBodyAccJerk-std()-X readings [units not specified in original data set]
+    Mean of  fBodyAccJerk-std()-X readings [units not specified in original data set]
     
 fBodyAccJerk-std()-Y	18
-	Mean of  'fBodyAccJerk-std()-Y' readings [units not specified in original data set]
+    Mean of  'fBodyAccJerk-std()-Y' readings [units not specified in original data set]
     
 fBodyAccJerk-std()-Z	18
-	Mean of  fBodyAccJerk-std()-Z readings [units not specified in original data set]
+    Mean of  fBodyAccJerk-std()-Z readings [units not specified in original data set]
     
 fBodyGyro-std()-X	18
-	Mean of  'fBodyGyro-std()-X' readings [units not specified in original data set]
+    Mean of  'fBodyGyro-std()-X' readings [units not specified in original data set]
     
 fBodyGyro-std()-Y	18
-	Mean of  fBodyGyro-std()-Y readings [units not specified in original data set]
+    Mean of  fBodyGyro-std()-Y readings [units not specified in original data set]
     
 fBodyGyro-std()-Z	18
-	Mean of  'fBodyGyro-std()-Z' readings [units not specified in original data set]
+    Mean of  'fBodyGyro-std()-Z' readings [units not specified in original data set]
     
 fBodyAccMag-std()	18
-	Mean of  fBodyAccMag-std() readings [units not specified in original data set]
+    Mean of  fBodyAccMag-std() readings [units not specified in original data set]
     
 fBodyBodyAccJerkMag-std()	18
 	Mean of  'fBodyBodyAccJerkMag-std()' readings [units not specified in original data set]
@@ -293,20 +293,20 @@ fBodyBodyAccJerkMag-mean()	18
 	Mean of  fBodyBodyAccJerkMag-mean() readings [units not specified in original data set]
     
 fBodyBodyAccJerkMag-meanFreq()	18
-	Mean of  'fBodyBodyAccJerkMag-meanFreq()' readings [units not specified in original data set]
+    Mean of  'fBodyBodyAccJerkMag-meanFreq()' readings [units not specified in original data set]
     
 fBodyBodyGyroMag-mean()	18
-	Mean of  fBodyBodyGyroMag-mean() readings [units not specified in original data set]
-    
+    Mean of  fBodyBodyGyroMag-mean() readings [units not specified in original data set]
+
 fBodyBodyGyroMag-meanFreq()	18
-	Mean of  'fBodyBodyGyroMag-meanFreq()' readings [units not specified in original data set]
+    Mean of  'fBodyBodyGyroMag-meanFreq()' readings [units not specified in original data set]
     
 fBodyBodyGyroJerkMag-mean()	18
-	Mean of  fBodyBodyGyroJerkMag-mean() readings [units not specified in original data set]
-    
+    Mean of  fBodyBodyGyroJerkMag-mean() readings [units not specified in original data set]
+
 fBodyBodyGyroJerkMag-meanFreq()	18
     Mean of  fBodyBodyGyroJerkMag-meanFreq() readings [units not specified in original data set]
-
+    
 # END OF FILE - Thanks for Marking
 
 
