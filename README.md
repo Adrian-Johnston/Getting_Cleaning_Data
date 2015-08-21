@@ -53,10 +53,12 @@ Line 43
 Final data is output in required format.
 
 # CODEBOOK
-ACTIVITY 18 
+ACTIVITY 18
+
     Activity performed by subject at time of measurement
 
 ACTIVITY_ID 1
+
     Activity Code
         1    WALKING
         2	WALKING_UPSTAIRS
